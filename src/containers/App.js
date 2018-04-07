@@ -9,68 +9,73 @@ class App extends React.Component {
 		super(props);
 		const initialBoard = sudoku.generate('easy', false);
 		this.state = {
-	  		initialBoard,
-	  		board: initialBoard,
+			initialBoard,
+			board: initialBoard,
 		}
-  	}
+	}
 
-  	checkBoard() {
+	checkBoard() {
 		const solution = sudoku.solve(this.state.board);
 
-        if (!solution) {
-            alert('Zła droga...');
-        } else {
-            alert('Jesteś na drodze sukcesu... ;)');
-        }
-  	}
+		if (!solution) {
+			alert('Zła droga');
+		} else if (solution && (this.state.board.indexOf('.') === -1)) {
+			alert('Rozwiązałeś sudoku!');
+		} else {
+			alert('Jesteś na drodze sukcesu');
+		}
+	}
 
-  	solveBoard() {
-        const board = sudoku.solve(this.state.board);
+	solveBoard() {
+		const board = sudoku.solve(this.state.board);
 
-        if (board) {
-    		this.setState({
-    	  		board
-    		});
-        }
-  	}
+		if (board) {
+			this.setState({
+				board
+			});
+		}
+	}
   
-  	resetBoard() {
+	resetBoard() {
 		this.setState({
-	  		board: this.state.initialBoard
+			board: this.state.initialBoard
 		});
-  	}
+	}
 
-  	newBoard() {
+	newBoard() {
 		const initialBoard = sudoku.generate('easy', false);
 
 		this.setState({
-	  		initialBoard: initialBoard,
-	  		board: initialBoard,
+			initialBoard: initialBoard,
+			board: initialBoard,
 		});
-  	}
+	}
 
-    onChangeHandler(index, value) {
-        const newBoard = `${this.state.board.slice(0, index)}${value}${this.state.board.slice(index + 1)}`;
+	onChangeHandler(index, value) {
+		const newBoard = `${this.state.board.slice(0, index)}${value}${this.state.board.slice(index + 1)}`;
 
-        this.setState({
-            board: newBoard
-        });
-    }
+		this.setState({
+			board: newBoard
+		});
+	}
 
-  	render() {
+	render() {
 		return (
-	  		<div className={style.App}>
+			<div className={style.App}>
 				<h1 className={style.Header}>Sudoku</h1>
-				<Board board={this.state.board} onChangeHandler={this.onChangeHandler.bind(this)} />
+				<Board 
+					initialBoard={this.state.initialBoard}
+					board={this.state.board} 
+					onChangeHandler={this.onChangeHandler.bind(this)} />
 				<div className={style.Buttons}>
-		  			<button onClick={this.checkBoard.bind(this)}>Check</button>
-		  			<button onClick={this.newBoard.bind(this)}>New game</button>
-		  			<button onClick={this.solveBoard.bind(this)}>Solve</button>
-		  			<button onClick={this.resetBoard.bind(this)}>Restart</button>
+					<button onClick={this.checkBoard.bind(this)}>Check</button>
+					<button onClick={this.newBoard.bind(this)}>New game</button>
+					<button onClick={this.solveBoard.bind(this)}>Solve</button>
+					<button onClick={this.resetBoard.bind(this)}>Restart</button>
 				</div>
-	  		</div>
+			</div>
 		)
-  	}
+	}
 }
 
 export default App;
