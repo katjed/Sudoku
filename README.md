@@ -1,4 +1,4 @@
 Sudoku
 
- https://katjed.github.io/Sudoku/
+ https://katjed.github.io/Sudoku/build/
  
