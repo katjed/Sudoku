@@ -262,35 +262,35 @@ var _temp = function () {
         return;
     }
 
-    __REACT_HOT_LOADER__.register(process, 'process', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/node-libs-browser/node_modules/process/browser.js');
+    __REACT_HOT_LOADER__.register(process, 'process', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/node-libs-browser/node_modules/process/browser.js');
 
-    __REACT_HOT_LOADER__.register(cachedSetTimeout, 'cachedSetTimeout', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/node-libs-browser/node_modules/process/browser.js');
+    __REACT_HOT_LOADER__.register(cachedSetTimeout, 'cachedSetTimeout', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/node-libs-browser/node_modules/process/browser.js');
 
-    __REACT_HOT_LOADER__.register(cachedClearTimeout, 'cachedClearTimeout', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/node-libs-browser/node_modules/process/browser.js');
+    __REACT_HOT_LOADER__.register(cachedClearTimeout, 'cachedClearTimeout', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/node-libs-browser/node_modules/process/browser.js');
 
-    __REACT_HOT_LOADER__.register(defaultSetTimout, 'defaultSetTimout', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/node-libs-browser/node_modules/process/browser.js');
+    __REACT_HOT_LOADER__.register(defaultSetTimout, 'defaultSetTimout', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/node-libs-browser/node_modules/process/browser.js');
 
-    __REACT_HOT_LOADER__.register(defaultClearTimeout, 'defaultClearTimeout', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/node-libs-browser/node_modules/process/browser.js');
+    __REACT_HOT_LOADER__.register(defaultClearTimeout, 'defaultClearTimeout', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/node-libs-browser/node_modules/process/browser.js');
 
-    __REACT_HOT_LOADER__.register(runTimeout, 'runTimeout', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/node-libs-browser/node_modules/process/browser.js');
+    __REACT_HOT_LOADER__.register(runTimeout, 'runTimeout', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/node-libs-browser/node_modules/process/browser.js');
 
-    __REACT_HOT_LOADER__.register(runClearTimeout, 'runClearTimeout', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/node-libs-browser/node_modules/process/browser.js');
+    __REACT_HOT_LOADER__.register(runClearTimeout, 'runClearTimeout', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/node-libs-browser/node_modules/process/browser.js');
 
-    __REACT_HOT_LOADER__.register(queue, 'queue', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/node-libs-browser/node_modules/process/browser.js');
+    __REACT_HOT_LOADER__.register(queue, 'queue', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/node-libs-browser/node_modules/process/browser.js');
 
-    __REACT_HOT_LOADER__.register(draining, 'draining', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/node-libs-browser/node_modules/process/browser.js');
+    __REACT_HOT_LOADER__.register(draining, 'draining', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/node-libs-browser/node_modules/process/browser.js');
 
-    __REACT_HOT_LOADER__.register(currentQueue, 'currentQueue', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/node-libs-browser/node_modules/process/browser.js');
+    __REACT_HOT_LOADER__.register(currentQueue, 'currentQueue', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/node-libs-browser/node_modules/process/browser.js');
 
-    __REACT_HOT_LOADER__.register(queueIndex, 'queueIndex', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/node-libs-browser/node_modules/process/browser.js');
+    __REACT_HOT_LOADER__.register(queueIndex, 'queueIndex', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/node-libs-browser/node_modules/process/browser.js');
 
-    __REACT_HOT_LOADER__.register(cleanUpNextTick, 'cleanUpNextTick', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/node-libs-browser/node_modules/process/browser.js');
+    __REACT_HOT_LOADER__.register(cleanUpNextTick, 'cleanUpNextTick', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/node-libs-browser/node_modules/process/browser.js');
 
-    __REACT_HOT_LOADER__.register(drainQueue, 'drainQueue', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/node-libs-browser/node_modules/process/browser.js');
+    __REACT_HOT_LOADER__.register(drainQueue, 'drainQueue', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/node-libs-browser/node_modules/process/browser.js');
 
-    __REACT_HOT_LOADER__.register(Item, 'Item', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/node-libs-browser/node_modules/process/browser.js');
+    __REACT_HOT_LOADER__.register(Item, 'Item', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/node-libs-browser/node_modules/process/browser.js');
 
-    __REACT_HOT_LOADER__.register(noop, 'noop', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/node-libs-browser/node_modules/process/browser.js');
+    __REACT_HOT_LOADER__.register(noop, 'noop', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/node-libs-browser/node_modules/process/browser.js');
 }();
 
 ;
@@ -366,9 +366,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(makeEmptyFunction, "makeEmptyFunction", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/fbjs/lib/emptyFunction.js");
+  __REACT_HOT_LOADER__.register(makeEmptyFunction, "makeEmptyFunction", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/fbjs/lib/emptyFunction.js");
 
-  __REACT_HOT_LOADER__.register(emptyFunction, "emptyFunction", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/fbjs/lib/emptyFunction.js");
+  __REACT_HOT_LOADER__.register(emptyFunction, "emptyFunction", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/fbjs/lib/emptyFunction.js");
 }();
 
 ;
@@ -475,15 +475,15 @@ var _temp = function () {
 		return;
 	}
 
-	__REACT_HOT_LOADER__.register(getOwnPropertySymbols, 'getOwnPropertySymbols', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/object-assign/index.js');
+	__REACT_HOT_LOADER__.register(getOwnPropertySymbols, 'getOwnPropertySymbols', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/object-assign/index.js');
 
-	__REACT_HOT_LOADER__.register(hasOwnProperty, 'hasOwnProperty', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/object-assign/index.js');
+	__REACT_HOT_LOADER__.register(hasOwnProperty, 'hasOwnProperty', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/object-assign/index.js');
 
-	__REACT_HOT_LOADER__.register(propIsEnumerable, 'propIsEnumerable', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/object-assign/index.js');
+	__REACT_HOT_LOADER__.register(propIsEnumerable, 'propIsEnumerable', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/object-assign/index.js');
 
-	__REACT_HOT_LOADER__.register(toObject, 'toObject', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/object-assign/index.js');
+	__REACT_HOT_LOADER__.register(toObject, 'toObject', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/object-assign/index.js');
 
-	__REACT_HOT_LOADER__.register(shouldUseNative, 'shouldUseNative', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/object-assign/index.js');
+	__REACT_HOT_LOADER__.register(shouldUseNative, 'shouldUseNative', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/object-assign/index.js');
 }();
 
 ;
@@ -517,7 +517,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(emptyObject, 'emptyObject', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/fbjs/lib/emptyObject.js');
+  __REACT_HOT_LOADER__.register(emptyObject, 'emptyObject', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/fbjs/lib/emptyObject.js');
 }();
 
 ;
@@ -588,9 +588,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(validateFormat, 'validateFormat', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/fbjs/lib/invariant.js');
+  __REACT_HOT_LOADER__.register(validateFormat, 'validateFormat', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/fbjs/lib/invariant.js');
 
-  __REACT_HOT_LOADER__.register(invariant, 'invariant', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/fbjs/lib/invariant.js');
+  __REACT_HOT_LOADER__.register(invariant, 'invariant', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/fbjs/lib/invariant.js');
 }();
 
 ;
@@ -670,9 +670,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(warning, 'warning', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/fbjs/lib/warning.js');
+  __REACT_HOT_LOADER__.register(warning, 'warning', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/fbjs/lib/warning.js');
 
-  __REACT_HOT_LOADER__.register(printWarning, 'printWarning', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/fbjs/lib/warning.js');
+  __REACT_HOT_LOADER__.register(printWarning, 'printWarning', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/fbjs/lib/warning.js');
 }();
 
 ;
@@ -766,9 +766,9 @@ var _temp = function () {
 		return;
 	}
 
-	__REACT_HOT_LOADER__.register(cssWithMappingToString, "cssWithMappingToString", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/css-loader/lib/css-base.js");
+	__REACT_HOT_LOADER__.register(cssWithMappingToString, "cssWithMappingToString", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/css-loader/lib/css-base.js");
 
-	__REACT_HOT_LOADER__.register(toComment, "toComment", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/css-loader/lib/css-base.js");
+	__REACT_HOT_LOADER__.register(toComment, "toComment", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/css-loader/lib/css-base.js");
 }();
 
 ;
@@ -1228,9 +1228,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(loggedTypeFailures, 'loggedTypeFailures', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/prop-types/checkPropTypes.js');
+  __REACT_HOT_LOADER__.register(loggedTypeFailures, 'loggedTypeFailures', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/prop-types/checkPropTypes.js');
 
-  __REACT_HOT_LOADER__.register(checkPropTypes, 'checkPropTypes', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/prop-types/checkPropTypes.js');
+  __REACT_HOT_LOADER__.register(checkPropTypes, 'checkPropTypes', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/prop-types/checkPropTypes.js');
 }();
 
 ;
@@ -1281,9 +1281,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(canUseDOM, 'canUseDOM', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/fbjs/lib/ExecutionEnvironment.js');
+  __REACT_HOT_LOADER__.register(canUseDOM, 'canUseDOM', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/fbjs/lib/ExecutionEnvironment.js');
 
-  __REACT_HOT_LOADER__.register(ExecutionEnvironment, 'ExecutionEnvironment', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/fbjs/lib/ExecutionEnvironment.js');
+  __REACT_HOT_LOADER__.register(ExecutionEnvironment, 'ExecutionEnvironment', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/fbjs/lib/ExecutionEnvironment.js');
 }();
 
 ;
@@ -1374,7 +1374,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(EventListener, 'EventListener', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/fbjs/lib/EventListener.js');
+  __REACT_HOT_LOADER__.register(EventListener, 'EventListener', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/fbjs/lib/EventListener.js');
 }();
 
 ;
@@ -1429,7 +1429,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(getActiveElement, 'getActiveElement', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/fbjs/lib/getActiveElement.js');
+  __REACT_HOT_LOADER__.register(getActiveElement, 'getActiveElement', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/fbjs/lib/getActiveElement.js');
 }();
 
 ;
@@ -1513,11 +1513,11 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(hasOwnProperty, 'hasOwnProperty', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/fbjs/lib/shallowEqual.js');
+  __REACT_HOT_LOADER__.register(hasOwnProperty, 'hasOwnProperty', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/fbjs/lib/shallowEqual.js');
 
-  __REACT_HOT_LOADER__.register(is, 'is', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/fbjs/lib/shallowEqual.js');
+  __REACT_HOT_LOADER__.register(is, 'is', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/fbjs/lib/shallowEqual.js');
 
-  __REACT_HOT_LOADER__.register(shallowEqual, 'shallowEqual', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/fbjs/lib/shallowEqual.js');
+  __REACT_HOT_LOADER__.register(shallowEqual, 'shallowEqual', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/fbjs/lib/shallowEqual.js');
 }();
 
 ;
@@ -1571,7 +1571,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(containsNode, 'containsNode', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/fbjs/lib/containsNode.js');
+  __REACT_HOT_LOADER__.register(containsNode, 'containsNode', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/fbjs/lib/containsNode.js');
 }();
 
 ;
@@ -1612,7 +1612,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(focusNode, 'focusNode', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/fbjs/lib/focusNode.js');
+  __REACT_HOT_LOADER__.register(focusNode, 'focusNode', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/fbjs/lib/focusNode.js');
 }();
 
 ;
@@ -2685,71 +2685,71 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(q, "q", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(q, "q", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(r, "r", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(r, "r", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(t, "t", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(t, "t", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(u, "u", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(u, "u", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(v, "v", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(v, "v", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(w, "w", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(w, "w", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(x, "x", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(x, "x", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(y, "y", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(y, "y", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(z, "z", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(z, "z", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(A, "A", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(A, "A", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(B, "B", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(B, "B", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(C, "C", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(C, "C", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(D, "D", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(D, "D", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(E, "E", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(E, "E", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(F, "F", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(F, "F", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(G, "G", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(G, "G", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(H, "H", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(H, "H", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(I, "I", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(I, "I", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(J, "J", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(J, "J", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(K, "K", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(K, "K", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(escape, "escape", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(escape, "escape", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(L, "L", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(L, "L", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(M, "M", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(M, "M", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(N, "N", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(N, "N", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(O, "O", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(O, "O", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(P, "P", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(P, "P", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Q, "Q", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(Q, "Q", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(R, "R", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(R, "R", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(S, "S", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(S, "S", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(T, "T", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(T, "T", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(U, "U", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(U, "U", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(V, "V", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(V, "V", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(W, "W", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(W, "W", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react/cjs/react.production.min.js");
 }();
 
 ;
@@ -4147,7 +4147,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(ReactPropTypesSecret, 'ReactPropTypesSecret', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/prop-types/lib/ReactPropTypesSecret.js');
+  __REACT_HOT_LOADER__.register(ReactPropTypesSecret, 'ReactPropTypesSecret', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/prop-types/lib/ReactPropTypesSecret.js');
 }();
 
 ;
@@ -4199,7 +4199,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(checkDCE, 'checkDCE', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/index.js');
+  __REACT_HOT_LOADER__.register(checkDCE, 'checkDCE', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/index.js');
 }();
 
 ;
@@ -6208,647 +6208,647 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(E, "E", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(E, "E", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(oa, "oa", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(oa, "oa", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(pa, "pa", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(pa, "pa", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ta, "ta", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ta, "ta", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ua, "ua", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ua, "ua", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(va, "va", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(va, "va", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(wa, "wa", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(wa, "wa", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(xa, "xa", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(xa, "xa", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ya, "ya", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ya, "ya", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(K, "K", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(K, "K", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(za, "za", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(za, "za", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Aa, "Aa", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Aa, "Aa", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ba, "Ba", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ba, "Ba", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ca, "Ca", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ca, "Ca", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Da, "Da", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Da, "Da", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ea, "Ea", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ea, "Ea", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(M, "M", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(M, "M", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ga, "Ga", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ga, "Ga", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ha, "Ha", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ha, "Ha", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ia, "Ia", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ia, "Ia", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(P, "P", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(P, "P", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ja, "Ja", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ja, "Ja", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ka, "Ka", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ka, "Ka", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(La, "La", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(La, "La", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ma, "Ma", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ma, "Ma", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Na, "Na", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Na, "Na", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Qa, "Qa", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Qa, "Qa", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Oa, "Oa", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Oa, "Oa", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Pa, "Pa", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Pa, "Pa", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ra, "Ra", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ra, "Ra", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Sa, "Sa", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Sa, "Sa", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ta, "Ta", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ta, "Ta", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ua, "Ua", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ua, "Ua", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Va, "Va", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Va, "Va", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Wa, "Wa", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Wa, "Wa", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Xa, "Xa", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Xa, "Xa", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ya, "Ya", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ya, "Ya", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Za, "Za", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Za, "Za", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register($a, "$a", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register($a, "$a", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ab, "ab", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ab, "ab", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(bb, "bb", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(bb, "bb", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(cb, "cb", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(cb, "cb", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(db, "db", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(db, "db", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(gb, "gb", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(gb, "gb", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(hb, "hb", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(hb, "hb", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ib, "ib", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ib, "ib", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(jb, "jb", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(jb, "jb", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(kb, "kb", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(kb, "kb", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(lb, "lb", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(lb, "lb", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(mb, "mb", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(mb, "mb", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(nb, "nb", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(nb, "nb", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Q, "Q", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Q, "Q", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ob, "ob", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ob, "ob", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(pb, "pb", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(pb, "pb", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(qb, "qb", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(qb, "qb", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(rb, "rb", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(rb, "rb", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(sb, "sb", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(sb, "sb", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(tb, "tb", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(tb, "tb", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ub, "ub", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ub, "ub", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(vb, "vb", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(vb, "vb", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(wb, "wb", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(wb, "wb", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(xb, "xb", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(xb, "xb", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(yb, "yb", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(yb, "yb", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(zb, "zb", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(zb, "zb", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ab, "Ab", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ab, "Ab", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Bb, "Bb", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Bb, "Bb", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Cb, "Cb", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Cb, "Cb", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Db, "Db", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Db, "Db", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Eb, "Eb", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Eb, "Eb", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(S, "S", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(S, "S", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Fb, "Fb", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Fb, "Fb", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Gb, "Gb", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Gb, "Gb", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Hb, "Hb", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Hb, "Hb", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ib, "Ib", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ib, "Ib", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(T, "T", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(T, "T", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Kb, "Kb", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Kb, "Kb", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Lb, "Lb", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Lb, "Lb", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Jb, "Jb", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Jb, "Jb", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Mb, "Mb", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Mb, "Mb", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Nb, "Nb", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Nb, "Nb", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Pb, "Pb", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Pb, "Pb", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Vb, "Vb", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Vb, "Vb", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Wb, "Wb", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Wb, "Wb", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Xb, "Xb", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Xb, "Xb", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Yb, "Yb", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Yb, "Yb", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Zb, "Zb", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Zb, "Zb", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register($b, "$b", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register($b, "$b", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ac, "ac", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ac, "ac", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(bc, "bc", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(bc, "bc", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(cc, "cc", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(cc, "cc", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(dc, "dc", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(dc, "dc", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ec, "ec", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ec, "ec", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(fc, "fc", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(fc, "fc", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(gc, "gc", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(gc, "gc", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(hc, "hc", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(hc, "hc", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ic, "ic", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ic, "ic", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(jc, "jc", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(jc, "jc", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(kc, "kc", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(kc, "kc", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(lc, "lc", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(lc, "lc", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(mc, "mc", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(mc, "mc", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(nc, "nc", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(nc, "nc", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(oc, "oc", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(oc, "oc", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(pc, "pc", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(pc, "pc", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(qc, "qc", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(qc, "qc", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(rc, "rc", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(rc, "rc", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(sc, "sc", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(sc, "sc", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(tc, "tc", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(tc, "tc", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(uc, "uc", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(uc, "uc", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(vc, "vc", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(vc, "vc", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(wc, "wc", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(wc, "wc", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(xc, "xc", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(xc, "xc", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(yc, "yc", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(yc, "yc", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(zc, "zc", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(zc, "zc", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ac, "Ac", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ac, "Ac", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Bc, "Bc", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Bc, "Bc", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Cc, "Cc", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Cc, "Cc", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Dc, "Dc", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Dc, "Dc", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ec, "Ec", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ec, "Ec", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Fc, "Fc", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Fc, "Fc", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Gc, "Gc", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Gc, "Gc", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Hc, "Hc", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Hc, "Hc", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ic, "Ic", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ic, "Ic", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Jc, "Jc", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Jc, "Jc", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Kc, "Kc", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Kc, "Kc", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Lc, "Lc", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Lc, "Lc", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Mc, "Mc", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Mc, "Mc", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Nc, "Nc", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Nc, "Nc", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Oc, "Oc", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Oc, "Oc", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Pc, "Pc", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Pc, "Pc", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register($c, "$c", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register($c, "$c", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ad, "ad", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ad, "ad", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(bd, "bd", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(bd, "bd", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(cd, "cd", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(cd, "cd", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(dd, "dd", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(dd, "dd", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ed, "ed", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ed, "ed", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(fd, "fd", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(fd, "fd", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(gd, "gd", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(gd, "gd", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(hd, "hd", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(hd, "hd", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(id, "id", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(id, "id", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(jd, "jd", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(jd, "jd", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(kd, "kd", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(kd, "kd", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ld, "ld", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ld, "ld", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(md, "md", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(md, "md", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(nd, "nd", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(nd, "nd", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(od, "od", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(od, "od", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(pd, "pd", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(pd, "pd", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(qd, "qd", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(qd, "qd", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(rd, "rd", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(rd, "rd", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(td, "td", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(td, "td", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(sd, "sd", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(sd, "sd", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ud, "ud", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ud, "ud", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(U, "U", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(U, "U", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(wd, "wd", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(wd, "wd", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(vd, "vd", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(vd, "vd", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(xd, "xd", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(xd, "xd", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(yd, "yd", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(yd, "yd", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(zd, "zd", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(zd, "zd", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ad, "Ad", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ad, "Ad", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Bd, "Bd", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Bd, "Bd", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Cd, "Cd", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Cd, "Cd", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Dd, "Dd", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Dd, "Dd", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ed, "Ed", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ed, "Ed", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Fd, "Fd", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Fd, "Fd", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Gd, "Gd", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Gd, "Gd", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Hd, "Hd", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Hd, "Hd", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Id, "Id", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Id, "Id", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Jd, "Jd", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Jd, "Jd", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Kd, "Kd", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Kd, "Kd", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ld, "Ld", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ld, "Ld", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Md, "Md", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Md, "Md", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Nd, "Nd", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Nd, "Nd", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Od, "Od", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Od, "Od", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Pd, "Pd", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Pd, "Pd", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Qd, "Qd", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Qd, "Qd", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Rd, "Rd", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Rd, "Rd", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Sd, "Sd", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Sd, "Sd", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Td, "Td", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Td, "Td", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ud, "Ud", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ud, "Ud", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Vd, "Vd", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Vd, "Vd", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Wd, "Wd", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Wd, "Wd", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Xd, "Xd", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Xd, "Xd", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Yd, "Yd", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Yd, "Yd", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Zd, "Zd", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Zd, "Zd", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register($d, "$d", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register($d, "$d", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ae, "ae", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ae, "ae", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(be, "be", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(be, "be", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ce, "ce", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ce, "ce", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(de, "de", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(de, "de", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ee, "ee", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ee, "ee", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(fe, "fe", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(fe, "fe", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ge, "ge", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ge, "ge", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(he, "he", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(he, "he", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(V, "V", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(V, "V", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(W, "W", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(W, "W", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ie, "ie", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ie, "ie", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(X, "X", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(X, "X", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(je, "je", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(je, "je", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ke, "ke", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ke, "ke", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(me, "me", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(me, "me", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(le, "le", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(le, "le", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ne, "ne", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ne, "ne", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(oe, "oe", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(oe, "oe", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(pe, "pe", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(pe, "pe", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(qe, "qe", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(qe, "qe", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(re, "re", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(re, "re", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Y, "Y", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Y, "Y", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(se, "se", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(se, "se", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(te, "te", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(te, "te", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ue, "ue", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ue, "ue", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ve, "ve", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ve, "ve", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(we, "we", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(we, "we", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(xe, "xe", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(xe, "xe", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ye, "ye", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ye, "ye", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ze, "ze", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ze, "ze", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ae, "Ae", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ae, "Ae", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Be, "Be", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Be, "Be", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ce, "Ce", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ce, "Ce", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(De, "De", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(De, "De", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ee, "Ee", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ee, "Ee", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Fe, "Fe", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Fe, "Fe", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ge, "Ge", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ge, "Ge", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(He, "He", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(He, "He", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ie, "Ie", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ie, "Ie", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Je, "Je", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Je, "Je", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ke, "Ke", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ke, "Ke", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Le, "Le", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Le, "Le", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Qe, "Qe", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Qe, "Qe", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Re, "Re", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Re, "Re", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Se, "Se", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Se, "Se", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Te, "Te", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Te, "Te", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ue, "Ue", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ue, "Ue", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ve, "Ve", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ve, "Ve", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(We, "We", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(We, "We", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Xe, "Xe", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Xe, "Xe", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ye, "Ye", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ye, "Ye", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ze, "Ze", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ze, "Ze", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register($e, "$e", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register($e, "$e", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(af, "af", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(af, "af", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(bf, "bf", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(bf, "bf", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(cf, "cf", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(cf, "cf", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(df, "df", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(df, "df", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ef, "ef", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ef, "ef", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ff, "ff", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ff, "ff", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(gf, "gf", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(gf, "gf", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(hf, "hf", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(hf, "hf", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(jf, "jf", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(jf, "jf", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(kf, "kf", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(kf, "kf", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(lf, "lf", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(lf, "lf", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(mf, "mf", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(mf, "mf", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(nf, "nf", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(nf, "nf", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(of, "of", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(of, "of", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(pf, "pf", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(pf, "pf", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(qf, "qf", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(qf, "qf", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(rf, "rf", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(rf, "rf", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(sf, "sf", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(sf, "sf", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(tf, "tf", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(tf, "tf", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(uf, "uf", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(uf, "uf", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(vf, "vf", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(vf, "vf", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(wf, "wf", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(wf, "wf", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(xf, "xf", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(xf, "xf", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(yf, "yf", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(yf, "yf", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(zf, "zf", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(zf, "zf", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Af, "Af", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Af, "Af", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Bf, "Bf", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Bf, "Bf", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Cf, "Cf", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Cf, "Cf", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Df, "Df", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Df, "Df", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ef, "Ef", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ef, "Ef", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ff, "Ff", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ff, "Ff", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Gf, "Gf", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Gf, "Gf", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Hf, "Hf", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Hf, "Hf", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(If, "If", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(If, "If", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Kf, "Kf", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Kf, "Kf", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Jf, "Jf", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Jf, "Jf", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Lf, "Lf", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Lf, "Lf", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Mf, "Mf", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Mf, "Mf", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Nf, "Nf", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Nf, "Nf", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Of, "Of", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Of, "Of", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Pf, "Pf", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Pf, "Pf", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Qf, "Qf", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Qf, "Qf", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Rf, "Rf", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Rf, "Rf", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Sf, "Sf", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Sf, "Sf", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Tf, "Tf", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Tf, "Tf", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Uf, "Uf", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Uf, "Uf", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Vf, "Vf", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Vf, "Vf", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Wf, "Wf", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Wf, "Wf", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Xf, "Xf", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Xf, "Xf", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Yf, "Yf", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Yf, "Yf", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Zf, "Zf", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Zf, "Zf", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register($f, "$f", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register($f, "$f", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ag, "ag", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ag, "ag", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(bg, "bg", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(bg, "bg", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(cg, "cg", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(cg, "cg", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(dg, "dg", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(dg, "dg", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(eg, "eg", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(eg, "eg", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(fg, "fg", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(fg, "fg", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(gg, "gg", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(gg, "gg", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(hg, "hg", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(hg, "hg", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ig, "ig", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ig, "ig", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(jg, "jg", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(jg, "jg", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(kg, "kg", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(kg, "kg", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(lg, "lg", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(lg, "lg", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(mg, "mg", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(mg, "mg", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ng, "ng", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ng, "ng", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(og, "og", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(og, "og", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(pg, "pg", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(pg, "pg", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(sg, "sg", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(sg, "sg", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(tg, "tg", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(tg, "tg", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ug, "ug", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ug, "ug", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(vg, "vg", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(vg, "vg", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(wg, "wg", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(wg, "wg", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(xg, "xg", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(xg, "xg", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Mg, "Mg", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Mg, "Mg", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ng, "Ng", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ng, "Ng", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Og, "Og", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Og, "Og", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Z, "Z", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Z, "Z", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Pg, "Pg", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Pg, "Pg", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Qg, "Qg", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Qg, "Qg", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Rg, "Rg", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Rg, "Rg", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Sg, "Sg", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Sg, "Sg", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Tg, "Tg", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Tg, "Tg", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ug, "Ug", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ug, "Ug", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-dom/cjs/react-dom.production.min.js");
 }();
 
 ;
@@ -6887,7 +6887,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(isTextNode, 'isTextNode', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/fbjs/lib/isTextNode.js');
+  __REACT_HOT_LOADER__.register(isTextNode, 'isTextNode', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/fbjs/lib/isTextNode.js');
 }();
 
 ;
@@ -6929,7 +6929,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(isNode, 'isNode', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/fbjs/lib/isNode.js');
+  __REACT_HOT_LOADER__.register(isNode, 'isNode', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/fbjs/lib/isNode.js');
 }();
 
 ;
@@ -9966,9 +9966,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(msPattern, 'msPattern', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/fbjs/lib/hyphenateStyleName.js');
+  __REACT_HOT_LOADER__.register(msPattern, 'msPattern', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/fbjs/lib/hyphenateStyleName.js');
 
-  __REACT_HOT_LOADER__.register(hyphenateStyleName, 'hyphenateStyleName', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/fbjs/lib/hyphenateStyleName.js');
+  __REACT_HOT_LOADER__.register(hyphenateStyleName, 'hyphenateStyleName', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/fbjs/lib/hyphenateStyleName.js');
 }();
 
 ;
@@ -10015,9 +10015,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(_uppercasePattern, '_uppercasePattern', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/fbjs/lib/hyphenate.js');
+  __REACT_HOT_LOADER__.register(_uppercasePattern, '_uppercasePattern', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/fbjs/lib/hyphenate.js');
 
-  __REACT_HOT_LOADER__.register(hyphenate, 'hyphenate', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/fbjs/lib/hyphenate.js');
+  __REACT_HOT_LOADER__.register(hyphenate, 'hyphenate', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/fbjs/lib/hyphenate.js');
 }();
 
 ;
@@ -10071,9 +10071,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(msPattern, 'msPattern', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/fbjs/lib/camelizeStyleName.js');
+  __REACT_HOT_LOADER__.register(msPattern, 'msPattern', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/fbjs/lib/camelizeStyleName.js');
 
-  __REACT_HOT_LOADER__.register(camelizeStyleName, 'camelizeStyleName', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/fbjs/lib/camelizeStyleName.js');
+  __REACT_HOT_LOADER__.register(camelizeStyleName, 'camelizeStyleName', 'D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/fbjs/lib/camelizeStyleName.js');
 }();
 
 ;
@@ -10119,9 +10119,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(_hyphenPattern, "_hyphenPattern", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/fbjs/lib/camelize.js");
+  __REACT_HOT_LOADER__.register(_hyphenPattern, "_hyphenPattern", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/fbjs/lib/camelize.js");
 
-  __REACT_HOT_LOADER__.register(camelize, "camelize", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/fbjs/lib/camelize.js");
+  __REACT_HOT_LOADER__.register(camelize, "camelize", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/fbjs/lib/camelize.js");
 }();
 
 ;
@@ -10284,9 +10284,9 @@ var _temp = function () {
 		return;
 	}
 
-	__REACT_HOT_LOADER__.register(App, 'App', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/src/containers/App.js');
+	__REACT_HOT_LOADER__.register(App, 'App', 'D:/Kodilla/Zadania/Projekty/Sudoku/src/containers/App.js');
 
-	__REACT_HOT_LOADER__.register(_default, 'default', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/src/containers/App.js');
+	__REACT_HOT_LOADER__.register(_default, 'default', 'D:/Kodilla/Zadania/Projekty/Sudoku/src/containers/App.js');
 }();
 
 ;
@@ -10348,9 +10348,9 @@ var _temp = function () {
         return;
     }
 
-    __REACT_HOT_LOADER__.register(Board, 'Board', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/src/components/Board.js');
+    __REACT_HOT_LOADER__.register(Board, 'Board', 'D:/Kodilla/Zadania/Projekty/Sudoku/src/components/Board.js');
 
-    __REACT_HOT_LOADER__.register(_default, 'default', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/src/components/Board.js');
+    __REACT_HOT_LOADER__.register(_default, 'default', 'D:/Kodilla/Zadania/Projekty/Sudoku/src/components/Board.js');
 }();
 
 ;
@@ -10411,9 +10411,9 @@ var _temp = function () {
         return;
     }
 
-    __REACT_HOT_LOADER__.register(Tile, 'Tile', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/src/components/Tile.js');
+    __REACT_HOT_LOADER__.register(Tile, 'Tile', 'D:/Kodilla/Zadania/Projekty/Sudoku/src/components/Tile.js');
 
-    __REACT_HOT_LOADER__.register(_default, 'default', 'D:/Kodilla/Zadania/Projekty NOWY/Sudoku/src/components/Tile.js');
+    __REACT_HOT_LOADER__.register(_default, 'default', 'D:/Kodilla/Zadania/Projekty/Sudoku/src/components/Tile.js');
 }();
 
 ;
@@ -10714,7 +10714,7 @@ exports = module.exports = __webpack_require__(7)(false);
 
 
 // module
-exports.push([module.i, "._3t9oX_UoSeBfpHTB0oHDRi {\r\n\tdisplay: flex;\r\n    justify-content: center;\r\n    align-content: center;\r\n    flex-wrap: wrap;\r\n}\r\n\r\n._3gbbF7GZDeNeVKVIOAss8T {\r\n    width: 100%;\r\n}\r\n\r\n._2kwTRYXpjrYMSRcYZOnUhd {\r\n    width: 100%;\r\n}", ""]);
+exports.push([module.i, "._3t9oX_UoSeBfpHTB0oHDRi {\r\n\tdisplay: flex;\r\n    justify-content: center;\r\n    align-content: center;\r\n    flex-wrap: wrap;\r\n}\r\n\r\n._3gbbF7GZDeNeVKVIOAss8T {\r\n    width: 100%;\r\n    text-align: center;\r\n    margin: 50px 0 40px;\r\n    font-size: 35px;\r\n}\r\n\r\n._2kwTRYXpjrYMSRcYZOnUhd {\r\n    width: 100%;\r\n    text-align: center;\r\n    margin-top: 40px;\r\n}\r\n\r\nbutton:hover {\r\n\tcursor: pointer;\r\n}", ""]);
 
 // exports
 exports.locals = {
@@ -10881,17 +10881,17 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(_createClass, "_createClass", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-hot-loader/lib/AppContainer.prod.js");
+  __REACT_HOT_LOADER__.register(_createClass, "_createClass", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-hot-loader/lib/AppContainer.prod.js");
 
-  __REACT_HOT_LOADER__.register(_classCallCheck, "_classCallCheck", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-hot-loader/lib/AppContainer.prod.js");
+  __REACT_HOT_LOADER__.register(_classCallCheck, "_classCallCheck", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-hot-loader/lib/AppContainer.prod.js");
 
-  __REACT_HOT_LOADER__.register(_possibleConstructorReturn, "_possibleConstructorReturn", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-hot-loader/lib/AppContainer.prod.js");
+  __REACT_HOT_LOADER__.register(_possibleConstructorReturn, "_possibleConstructorReturn", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-hot-loader/lib/AppContainer.prod.js");
 
-  __REACT_HOT_LOADER__.register(_inherits, "_inherits", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-hot-loader/lib/AppContainer.prod.js");
+  __REACT_HOT_LOADER__.register(_inherits, "_inherits", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-hot-loader/lib/AppContainer.prod.js");
 
-  __REACT_HOT_LOADER__.register(Component, "Component", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-hot-loader/lib/AppContainer.prod.js");
+  __REACT_HOT_LOADER__.register(Component, "Component", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-hot-loader/lib/AppContainer.prod.js");
 
-  __REACT_HOT_LOADER__.register(AppContainer, "AppContainer", "D:/Kodilla/Zadania/Projekty NOWY/Sudoku/node_modules/react-hot-loader/lib/AppContainer.prod.js");
+  __REACT_HOT_LOADER__.register(AppContainer, "AppContainer", "D:/Kodilla/Zadania/Projekty/Sudoku/node_modules/react-hot-loader/lib/AppContainer.prod.js");
 }();
 
 ;
