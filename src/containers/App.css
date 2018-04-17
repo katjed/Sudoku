@@ -7,8 +7,16 @@
 
 .Header {
     width: 100%;
+    text-align: center;
+    margin: 50px 0 40px;
 }
 
 .Buttons {
     width: 100%;
+    text-align: center;
+    margin-top: 40px;
+}
+
+button:hover {
+	cursor: pointer;
 }
